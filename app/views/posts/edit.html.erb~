@@ -1,0 +1,5 @@
+<%= link_to 'Inicio', "/" %>
+<%= link_to 'Atrás', posts_path %>
+
+<%= render 'form' %>
+
